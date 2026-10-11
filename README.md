@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/B.Tech-VIT%20Vellore-7C5CFF?style=for-the-badge" alt="B.Tech at VIT Vellore" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20ML-181717?style=for-the-badge" alt="Focus: Full-Stack and ML" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-2ea44f?style=for-the-badge" alt="Always trying" />
+  <img src="https://img.shields.io/badge/Status-Always%20Trying-2ea44f?style=for-the-badge" alt="Always trying" />
 </p>
 
 </div>
@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-I'm a B.Tech student at **VIT Vellore** exploring software engineering. I enjoy full-stack development, and lately I've been digging into **deep learning for image restoration**, **agent-based simulation**, and **developer tooling built on static analysis**. I'm still firmly in the learning phase and figuring things out as I go.
+I'm a B.Tech student at **VIT Vellore** exploring AI and ML. I enjoy full-stack development, and lately I've been digging into **deep learning for image restoration**, **agent-based simulation**, and **developer tooling built on static analysis**. I'm still firmly in the learning phase and figuring things out as I go.
 
-My process is simple: **read the docs → break things → fix them → repeat** until it works.
+My process is simple: **read the docs → break things → ask claude → fix them → repeat** until it works.
 
 Right now I'm focused on:
 
