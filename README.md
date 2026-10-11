@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vairaj+Malhotra+%F0%9F%91%8B;%40+VIT+Vellore;Deep+Learning+%2B+Simulation+%2B+Developer+Tools;Learning+in+public%2C+one+commit+at+a+time" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Vairaj+Malhotra+%F0%9F%91%8B;Deep+Learning+%2B+Simulation+%2B+Developer+Tools;Learning+in+public%2C+one+commit+at+a+time" alt="Typing intro" />
 
 <p>
   <img src="https://img.shields.io/badge/B.Tech-VIT%20Vellore-7C5CFF?style=for-the-badge" alt="B.Tech at VIT Vellore" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%2B%20ML-181717?style=for-the-badge" alt="Focus: Full-Stack and ML" />
   <img src="https://img.shields.io/badge/Status-Always%20Learning-2ea44f?style=for-the-badge" alt="Always learning" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Fabastic&label=Profile+views&color=7C5CFF&style=flat-square" alt="Profile views" />
 
 </div>
 
